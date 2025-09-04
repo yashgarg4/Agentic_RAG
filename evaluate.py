@@ -57,7 +57,7 @@ def load_chain():
 
 # --- Evaluation Framework ---
 
-# !!! IMPORTANT: Customize this with questions and keywords from YOUR documents. !!!
+# Customize this with questions and keywords from YOUR documents.
 EVALUATION_SET = [
     {
         "question": "What is the process for getting an API key?",
@@ -107,3 +107,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
