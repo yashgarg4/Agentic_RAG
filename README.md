@@ -1,6 +1,6 @@
-# Partner Support Agent
+# Agentic RAG based IntelliAgent
 
-This project implements a Retrieval-Augmented Generation (RAG) system to create a "IntelliAgent." This agent can answer questions based on a private collection of documents. It provides multiple interfaces, from a simple command-line tool to a sophisticated multi-agent web application.
+This project implements a Retrieval-Augmented Generation (RAG) system to create an "IntelliAgent." This agent can answer questions based on a private collection of documents. It provides multiple interfaces, from a simple command-line tool to a sophisticated multi-agent web application.
 
 ## Features
 
@@ -128,3 +128,4 @@ python-dotenv
 pypdf
 docx2txt
 ```
+
