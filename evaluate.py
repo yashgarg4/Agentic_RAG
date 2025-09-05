@@ -9,7 +9,6 @@ from langchain.prompts import PromptTemplate
 # Load environment variables
 load_dotenv()
 
-# --- Configuration (copied from streamlit_app.py) ---
 PERSIST_DIRECTORY = 'db'
 
 qa_template = """
@@ -107,4 +106,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
